@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SpeedoMeter.qml</file>
+        <file>RoadAnimation.qml</file>
+        <file>BatteryLevel.qml</file>
+        <file>cycle_4.png</file>
+        <file>cycle3.png</file>
+        <file>pixelLogo.png</file>
+        <file>cycle.png</file>
+        <file>bicycle_bell.mp3</file>
+        <file>clock.png</file>
+        <file>calendar.png</file>
+        <file>batteryboult.svg</file>
+    </qresource>
+</RCC>
